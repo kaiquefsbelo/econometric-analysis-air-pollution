@@ -50,14 +50,27 @@ data/
 
 ## Technologies
 
-- R
-- Excel
-- Statistics
-- Econometrics
+R
+
+Data Analysis
+
+Exploratory Data Analysis
+
+Linear Regression
+
+Statistics
 
 ## Main Findings
 
-(To be completed)
+• Air pollution showed a positive association with daily mortality.
+
+• Lower temperatures were associated with higher respiratory mortality.
+
+• Congonhas presented the highest CO concentrations among monitoring stations.
+
+• PM10 exhibited the strongest correlation with CO.
+
+• Individuals over 65 years old showed substantially higher cardiac mortality.
 
 ## Author
 
