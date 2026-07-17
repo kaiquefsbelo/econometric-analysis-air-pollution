@@ -1,5 +1,5 @@
 # econometric-analysis-air-pollution
-# Econometric Analysis of Air Pollution and Health Outcomes
+# Air Pollution and Public Health in São Paulo: An Econometric Analysis
 
 ## Overview
 
